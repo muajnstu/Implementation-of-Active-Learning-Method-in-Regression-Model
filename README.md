@@ -19,9 +19,4 @@ tus, and insurance charges, which serve as the target variable. It is pre-cleane
 surance premium prediction, capturing trends across diverse demographic and health
  factors.
  
- Here, active learning is applied to optimize the training of regression models
- for predicting health insurance premiums. By selecting data points with the highest
- uncertainty or the most significant expected impact on model parameters, the ap
-proach reduces labeling costs and improves prediction accuracy. This methodology
- is particularly relevant in resource-constrained environments like Bangladesh, where
- labeled datasets are limited.
+

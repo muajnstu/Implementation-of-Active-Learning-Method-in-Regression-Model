@@ -1,6 +1,6 @@
 # Implementation-of-Active-Learning-Method-in-Regression-Model
  Active learning is a specialized branch of machine learning that aims to improve model
- efficiency by reducing the amount of labeled data required for training. #It identifies
+ efficiency by reducing the amount of labeled data required for training. It identifies
  and prioritizes the most informative or uncertain samples for labeling, ensuring that
  each labeled data point maximally contributes to the model’s performance. Active
  learning operates iteratively, where the model learns from labeled data, identifies
